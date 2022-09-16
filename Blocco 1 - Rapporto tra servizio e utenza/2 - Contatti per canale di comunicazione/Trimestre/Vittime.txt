@@ -1,0 +1,13 @@
+Indice,Anno,Trimestre,Chiamata Telefonica,Chat
+1,2018,Primo,2552,43
+2,2018,Secondo,2393,89
+3,2018,Terzo,2142,71
+4,2018,Quarto,2198,114
+5,2019,Primo,2092,159
+6,2019,Secondo,2005,193
+7,2019,Terzo,1988,149
+8,2019,Quarto,1856,205
+9,2020,Primo,1767,336
+10,2020,Secondo,4452,1154
+11,2020,Terzo,3759,366
+12,2020,Quarto,3277,597

@@ -1,0 +1,4 @@
+Indice,Anno,Chiamata Telefonica,Chat
+1,2018,9285,317
+2,2019,7941,706
+3,2020,13255,2453
